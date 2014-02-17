@@ -21,6 +21,7 @@ public class JavaApplication2 {
         
         int azert;
         int x;
+        int test_branche;
     }
     
 }
