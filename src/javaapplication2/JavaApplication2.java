@@ -19,7 +19,7 @@ public class JavaApplication2 {
         // TODO code application logic here
         
         
-        
+        int azert;
         int x;
     }
     
